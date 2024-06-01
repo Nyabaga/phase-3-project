@@ -1,5 +1,5 @@
 # phase-3-project
-![Alt text](URL_or_path_to_image)
+![Loans](Images/ifer-endahl-iJNYGvR8avs-unsplash.jpg)
 
 
 ## Business Understanding:
