@@ -30,6 +30,6 @@ The models we used are:
 We discovered there are specific factors that relate withdefaulting of loans. These include: interest rate,length of employment,pourpose of the loan and the grade of the loan. These factors should be studied more to  enhance prediction of losn defaulting.
 From our results of the AUC analysis, I can advice Lending club group to use the Random forest model to make their prediction as it seems to have a higher value of Areaa under the curve. Further analysis with F1-score and potentially cost-sensitive learning is recommended to make a more informed decision, especially if minimizing false positives is important this is because there might be a possibility of class imbalance. Those taking up this project might consider solving that issue.
 ## Presentation link
->[Link text](URL)
+>[presentation](loan_prediction.pdf)
 
 
